@@ -1,0 +1,10 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: var(--secondary-color);
+
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: var(--primary-color);
+    text-decoration: underline;
+
+}
